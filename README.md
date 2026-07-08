@@ -1,1 +1,1 @@
-# sushi-hana-restaurant
+sushi-hana-restaurant
